@@ -1,4 +1,4 @@
-# Hi, I'm Rizki Insyani 👋
+# Hi there 👋, I'm Rizki Insyani
 
 Data Science enthusiast passionate about analytics, machine learning, AI, and building impactful solutions.  
 
@@ -9,6 +9,7 @@ Data Science enthusiast passionate about analytics, machine learning, AI, and bu
 ---
 
 ### 📌 Connect with me
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.kr/citations?user=3fN5tIMAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insyanirizki88/)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@insyanirizki88)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white)](https://kaggle.com/insyanirizki88)
