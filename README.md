@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rizki Insyani
 
-Ex-research scientist and Data Science enthusiast passionate about analytics, machine learning, AI, and building impactful solutions.  
+Data science enthusiast with a strong interest in research, analytics, machine learning, and AI to create meaningful environmental solutions that support climate action.  
 
 🌱 Currently learning: Data Science, Machine Learning & Data Visualization  
 💼 Aspiring Environmental Data Scientist  
