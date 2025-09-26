@@ -1,4 +1,4 @@
-# Hi, I'm Insyani 👋
+# Hi, I'm Rizki Insyani 👋
 
 Data Science enthusiast passionate about analytics, machine learning, AI, and building impactful solutions.  
 
