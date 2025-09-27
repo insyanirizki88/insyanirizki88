@@ -2,9 +2,9 @@
 
 Data science enthusiast with a strong interest in research, analytics, machine learning, and AI to create meaningful environmental solutions that support climate action.  
 
-🌱 Currently learning: Data Science, Machine Learning & Data Visualization  
+🌱 Currently learning: Data Science, data visualization, and machine learning  
 💼 Aspiring Environmental Data Scientist  
-✍️ Sharing my learning journey on Medium & LinkedIn  
+✍️ Sharing my learning journey on Medium, Kaggle and LinkedIn  
 
 ---
 
