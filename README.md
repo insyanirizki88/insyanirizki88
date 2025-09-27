@@ -9,7 +9,7 @@ Data science enthusiast with a strong interest in research, analytics, machine l
 ---
 
 ### 📌 Connect with me
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.kr/citations?user=3fN5tIMAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=3fN5tIMAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insyanirizki88/)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@insyanirizki88)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white)](https://kaggle.com/insyanirizki88)
