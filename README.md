@@ -17,7 +17,7 @@ Data science enthusiast with a strong interest in research, analytics, machine l
 ---
 
 ### ⚡ Skills
-- **Languages:** Python and SQL, R  
+- **Languages:** Python and SQL 
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
 - **Tools:** Power BI, Tableau, GitHub  
 
